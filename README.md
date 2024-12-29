@@ -233,6 +233,9 @@ Koç University, TUR
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, ARE
 - [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, AUS
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
+- [Labcores at UFRJ](https://www.labcores.com.br), Rio de Janeiro, BRA
+- [Medialab.UFRJ](https://netlab.eco.ufrj.br/), Rio de Janeiro, BRA
+- [Internet Laboratory at UFRJ](https://netlab.eco.ufrj.br/), Rio de Janeiro, BRA
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
