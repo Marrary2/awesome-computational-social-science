@@ -100,6 +100,7 @@ chronologically.
 
 > See also the [Software](#software) section for material on software tools
 
+- [Computational Social Science Specialization (UC Davis)](https://www.coursera.org/specializations/computational-social-science-ucdavis) - Integrated Course Program (Specialization) by Martin Hilbert at the University of California (Davis), USA. 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
