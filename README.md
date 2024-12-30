@@ -111,8 +111,16 @@ chronologically.
 
 ### Videos and Lectures
 
+
+- [SICSS 2017 - Four Areas of Difficulty in Computational Social Science](https://www.youtube.com/watch?v=4K8dIzN8NCA&t=1751s), by Matthew J. Salganik, Princeton University (2017)
 - [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
 - [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
+- [What, why, and which experiments?](https://www.youtube.com/watch?v=zORiyxfKWXU), by Matthew J. Salganik, Princeton University (2020)
+- [Moving beyond simple experiments](https://www.youtube.com/watch?v=cYyu5Ex0twE), by Matthew J. Salganik, Princeton University (2020)
+- [How to Get Grants in Computational Social Science](https://www.youtube.com/watch?v=zORiyxfKWXU), by Chris Bail, Duke University (2022)
+- [How to Get a Job in Computational Social Science](https://www.youtube.com/watch?v=U1hjTMEhz6k&t=2s), by Chris Bail, Duke University (2022)
+- [Digital Trace Data Introduction](https://www.youtube.com/watch?v=eQ1BarWTRxo), by Chris Bail, Ridhi Kashyap,University of Oxford (2022)
+- [Measurement and Causal Inference Using Text as Data](https://www.youtube.com/watch?v=_tOZVIedW58), by Justin Grimmer,Summer Institute in Computational Social Science (2022)
 - [Python for Computational Social Science and Digital Humanities](https://youtu.be/T7qMZH25co0), by Christopher Cameron, Cornell University (2023)
 
 
