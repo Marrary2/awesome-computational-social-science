@@ -120,7 +120,7 @@ chronologically.
 - [How to Get Grants in Computational Social Science](https://www.youtube.com/watch?v=zORiyxfKWXU), by Chris Bail, Duke University (2022)
 - [How to Get a Job in Computational Social Science](https://www.youtube.com/watch?v=U1hjTMEhz6k&t=2s), by Chris Bail, Duke University (2022)
 - [Digital Trace Data Introduction](https://www.youtube.com/watch?v=eQ1BarWTRxo), by Chris Bail, Ridhi Kashyap,University of Oxford (2022)
-- [Measurement and Causal Inference Using Text as Data](https://www.youtube.com/watch?v=_tOZVIedW58), by Justin Grimmer,Summer Institute in Computational Social Science (2022)
+- [Measurement and Causal Inference Using Text as Data](https://www.youtube.com/watch?v=_tOZVIedW58), by Justin Grimmer, Summer Institute in Computational Social Science (2022)
 - [Python for Computational Social Science and Digital Humanities](https://youtu.be/T7qMZH25co0), by Christopher Cameron, Cornell University (2023)
 
 
